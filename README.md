@@ -1,37 +1,64 @@
-# Agentic AI Learning
+# Agentic AI Learning Journey 
 
-My journey of learning Agentic AI using Python.
+## About This Repository
 
-## Day 1 - AI Fundamentals
+Welcome to my Agentic AI learning journey!
 
-Topics covered:
-- Introduction to LLMs
-- LangChain and Groq
-- Prompt Engineering
-- Building an AI Chatbot
-- Prompt Guard and AI Security
+This repository contains my daily learning activities, Python notebooks, experiments, and practical implementations while learning Agentic AI using Python, LangChain, and Groq.
 
-## Tools Used
+Learning Progress
+
+### Day 1 - AI Fundamentals
+- Introduction to Large Language Models (LLMs)
+- Understanding AI concepts
+- Introduction to LangChain and Groq
+- Connecting Python with an AI model
+
+**Notebook:** `Day1/agenticAI_Day1.ipynb`
+
+### Day 2 - Prompts, Memory and Python
+- Messages and roles
+- System prompts
+- Few-shot prompting
+- JSON responses
+- Conversation memory
+- Python dictionaries and JSON
+- Functions and type hints
+- Decorators
+- Exception handling
+
+**Notebook:** `Day2/Day_2Agentic_AI.ipynb`
+
+### Day 3 - Your First AI Agent
+- Chatbot vs AI Agent
+- Components of an AI agent
+- Agent loop
+- LangChain fundamentals
+- Prompt templates
+- Conversation memory
+- Testing AI responses
+- Temperature experiments
+- Creating a LangChain agent
+
+**Notebook:** `Day3/Day_3.ipynb`
+
+Technologies Used
+
 - Python
 - Google Colab
 - LangChain
-- Groq
-- GitHub# Agentic AI Learning
+- Groq API
+- Git and GitHub
 
-My journey of learning Agentic AI using Python.
+Learning Goals
 
-## Day 1 - AI Fundamentals
+- Understand how AI models work.
+- Build applications using Large Language Models.
+- Learn prompt engineering and conversation memory.
+- Develop Python functions for AI agents.
+- Build practical AI agent applications.
 
-Topics covered:
-- Introduction to LLMs
-- LangChain and Groq
-- Prompt Engineering
-- Building an AI Chatbot
-- Prompt Guard and AI Security
 
-## Tools Used
-- Python
-- Google Colab
-- LangChain
-- Groq
-- GitHub
+---
+
+⭐ This repository documents my continuous learning journey in Agentic AI.

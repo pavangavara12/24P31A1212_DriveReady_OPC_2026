@@ -1,4 +1,4 @@
-# Agentic AI Learning Journey 
+# Agentic AI Learning Journey
 
 ## About This Repository
 
@@ -6,7 +6,7 @@ Welcome to my Agentic AI learning journey!
 
 This repository contains my daily learning activities, Python notebooks, experiments, and practical implementations while learning Agentic AI using Python, LangChain, and Groq.
 
-Learning Progress
+## Learning Progress
 
 ### Day 1 - AI Fundamentals
 - Introduction to Large Language Models (LLMs)
@@ -42,22 +42,41 @@ Learning Progress
 
 **Notebook:** `Day3/Day_3.ipynb`
 
-Technologies Used
+### Day 4 - Tools, Structured Output and Google Sheets
+- Understanding tools in LangChain
+- Creating custom tools using the `@tool` decorator
+- Retrieving product details and prices
+- Structured output using Pydantic
+- Validating customer orders
+- Integrating Google Sheets with Python
+- Automatically saving bakery orders
+- Testing tool selection
+- Understanding agent execution traces
+
+**Notebook:** `Day4/Day_4.ipynb`
+
+## Technologies Used
 
 - Python
 - Google Colab
 - LangChain
 - Groq API
+- GPT-OSS-20B
+- Pydantic
+- Google Sheets
+- gspread
 - Git and GitHub
 
-Learning Goals
+## Learning Goals
 
 - Understand how AI models work.
 - Build applications using Large Language Models.
 - Learn prompt engineering and conversation memory.
 - Develop Python functions for AI agents.
+- Understand how AI agents use tools.
+- Generate structured outputs using Pydantic.
+- Integrate AI agents with external applications.
 - Build practical AI agent applications.
-
 
 ---
 
